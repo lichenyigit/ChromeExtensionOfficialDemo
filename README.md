@@ -1,0 +1,2 @@
+# ChromeExtension.SearchEngineOrderSelection
+chrome插件，按搜索引擎顺序进行搜索

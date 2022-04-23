@@ -1,2 +1,2 @@
-# ChromeExtension.SearchEngineOrderSelection
-chrome插件，按搜索引擎顺序进行搜索
+# ChromeExtensionOfficialDemo
+chrome扩展官方demo
